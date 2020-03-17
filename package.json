@@ -4,11 +4,7 @@
   "description": "",
   "main": "baibai.js",
   "scripts": {
-<<<<<<< HEAD
-    "test": "echo \"Error: no test specified\" && exit 1"
-=======
     "test": "echo \"Error: no test specified\" && exit 0"
->>>>>>> 502ae17f4557b6c2647f84caf81738719c34bfab
   },
   "repository": {
     "type": "git",
@@ -22,10 +18,7 @@
   },
   "homepage": "https://github.com/qianxunlingbao/baibai#readme",
   "devDependencies": {
-<<<<<<< HEAD
-=======
     "gitbook-cli": "^2.3.2",
->>>>>>> 502ae17f4557b6c2647f84caf81738719c34bfab
     "grunt": "^1.1.0",
     "grunt-contrib-cssmin": "^3.0.0",
     "grunt-contrib-htmlmin": "^3.1.0",
